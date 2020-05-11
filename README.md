@@ -1,1 +1,1 @@
-# Parrot-GANs
+# Parrot-Generation-2020-Pinterest
